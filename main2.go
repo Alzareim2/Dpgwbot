@@ -13,7 +13,7 @@ import (
 )
 
 var (
-	Token string = "MTA5MzgxODA4ODYzMTMyMDYxNg.GK4b5Q.MkJ4vjswD8uetZFlsWPOnjggo-UdzI4APKAZLY"
+	Token string = ""
 )
 
 type Giveaway struct {
